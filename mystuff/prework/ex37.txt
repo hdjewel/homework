@@ -1,0 +1,108 @@
+
+Keywords	Meaning
+and	joins two conditions
+del	
+from	
+not	negates the condition
+while	loop logic
+as	
+elif	branch of an if statement
+global	kind of variable
+or	
+with	
+assert	
+else	end branch of an if statement
+if	beginning branch of an if statement
+pass	
+yield	
+break	
+except	
+import	bring code into a file
+print	display string onto the screen
+class	
+exec	run a program
+in	
+raise	
+continue	
+finally	
+is	
+return	send a value to the calling routine
+def	defines a function
+for	loop logic
+lambda	
+try	
+Data Types	
+For data types, write out what makes up each one. For example, with strings write out how you create a string. For numbers write out a few numbers.	
+	
+TRUE	0
+FALSE	1
+None	null
+strings	"this is a string" "So is this"
+numbers	1 3 4999
+floats	1.03  3.14
+lists	a group of values assigned to a single variable
+String Escape Sequences	
+For string escape sequences, use them in strings to make sure they do what you think they do.	
+	
+\\	print a backslash
+\'	print a single quote
+\"	print a double quote
+\a	
+\b	
+\f	
+\n	print a new line
+\r	
+\t	print a tab
+\v	print a verticle tab
+String Formats	
+Same thing for string formats: use them in some strings to know what they do.	
+	
+%d	print a number
+%i	print an interger
+%o	print an number in octagol representation
+%u	print a UNI code
+%x	
+%X	
+%e	
+%E	
+%f	
+%F	
+%g	
+%G	
+%c	
+%r	print exactly what is in the bytes
+%s	print a string
+%%	
+Operators	
+Some of these may be unfamiliar to you, but look them up anyway. Find out what they do, and if you still can't figure it out, save it for later.	
+	
++	add
+-	subtract
+*	multiply
+**	exponetial
+/	divide
+//	
+%	remander - modules
+<	less than
+>	greater than
+<=	less than or equal to
+>=	greater than or equal to
+==	equals
+!=	not equals
+<>	less that or greater than but not equal
+( )	delimits an expression
+[ ]	delimits a list of values
+{ }	delimits variables for a function or module
+@	
+,	separator
+:	indentifies indented code to follow
+.	signals Python to run the following function
+=	equals
+;	
++=	add one to the variable's value
+-=	subtract one from the variable's value
+*=	multiply the variable's value by it's value
+/=	divide the variable's value by it's value
+//=	
+%=	
+**=	
