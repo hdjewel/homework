@@ -1,0 +1,353 @@
+
+-----
+Fullfilling order of 10 Watermelon
+-----
+
+[93m[PickerBot][0m Status: Picked a Green 4.58LB Watermelon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 4.58LB Watermelon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 4.58LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 4.58LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: [92mGreen 4.58LB Watermelon Passes [0m
+[93m[PickerBot][0m Status: Picked a Green 2.72LB Watermelon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 2.72LB Watermelon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 2.72LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 2.72LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 2.72LB Watermelon weight less than 3lbs!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 2.72LB Watermelon to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 8.33LB Watermelon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 8.33LB Watermelon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 8.33LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 8.33LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 8.33LB Watermelon weight over 8lbs!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 8.33LB Watermelon to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 2.27LB Watermelon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 2.27LB Watermelon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 2.27LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 2.27LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 2.27LB Watermelon weight less than 3lbs!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 2.27LB Watermelon to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 5.70LB Watermelon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 5.70LB Watermelon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 5.70LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 5.70LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: [92mGreen 5.70LB Watermelon Passes [0m
+[93m[PickerBot][0m Status: Picked a Green 6.59LB Watermelon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 6.59LB Watermelon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 6.59LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 6.59LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 6.59LB Watermelon is not labeled correctly!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 6.59LB Watermelon to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 4.82LB Watermelon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 4.82LB Watermelon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 4.82LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 4.82LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: [92mGreen 4.82LB Watermelon Passes [0m
+[93m[PickerBot][0m Status: Picked a Green 8.64LB Watermelon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 8.64LB Watermelon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 8.64LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 8.64LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 8.64LB Watermelon weight over 8lbs!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 8.64LB Watermelon to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 3.50LB Watermelon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 3.50LB Watermelon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 3.50LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 3.50LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: [92mGreen 3.50LB Watermelon Passes [0m
+[93m[PickerBot][0m Status: Picked a Green 2.46LB Watermelon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 2.46LB Watermelon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 2.46LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 2.46LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 2.46LB Watermelon weight less than 3lbs!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 2.46LB Watermelon to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 6.86LB Watermelon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 6.86LB Watermelon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 6.86LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 6.86LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: [92mGreen 6.86LB Watermelon Passes [0m
+[93m[PickerBot][0m Status: Picked a Green 3.83LB Watermelon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 3.83LB Watermelon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 3.83LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 3.83LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: [92mGreen 3.83LB Watermelon Passes [0m
+[93m[PickerBot][0m Status: Picked a Green 3.62LB Watermelon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 3.62LB Watermelon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 3.62LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 3.62LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: [92mGreen 3.62LB Watermelon Passes [0m
+[93m[PickerBot][0m Status: Picked a Green 1.66LB Watermelon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 1.66LB Watermelon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 1.66LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 1.66LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 1.66LB Watermelon weight less than 3lbs!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 1.66LB Watermelon to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 2.61LB Watermelon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 2.61LB Watermelon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 2.61LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 2.61LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 2.61LB Watermelon weight less than 3lbs!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 2.61LB Watermelon to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 5.80LB Watermelon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 5.80LB Watermelon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 5.80LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 5.80LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 5.80LB Watermelon is not labeled correctly!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 5.80LB Watermelon to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 2.49LB Watermelon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 2.49LB Watermelon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 2.49LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 2.49LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 2.49LB Watermelon weight less than 3lbs!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 2.49LB Watermelon to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 5.64LB Watermelon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 5.64LB Watermelon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 5.64LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 5.64LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 5.64LB Watermelon is not labeled correctly!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 5.64LB Watermelon to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 0.59LB Watermelon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 0.59LB Watermelon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 0.59LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 0.59LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 0.59LB Watermelon weight less than 3lbs!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 0.59LB Watermelon to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 6.09LB Watermelon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 6.09LB Watermelon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 6.09LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 6.09LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: [92mGreen 6.09LB Watermelon Passes [0m
+[93m[PickerBot][0m Status: Picked a Green 1.09LB Watermelon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 1.09LB Watermelon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 1.09LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 1.09LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 1.09LB Watermelon weight less than 3lbs!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 1.09LB Watermelon to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 5.66LB Watermelon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 5.66LB Watermelon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 5.66LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 5.66LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: [92mGreen 5.66LB Watermelon Passes [0m
+[93m[PickerBot][0m Status: Picked a Green 9.13LB Watermelon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 9.13LB Watermelon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 9.13LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 9.13LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 9.13LB Watermelon weight over 8lbs!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 9.13LB Watermelon to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 2.86LB Watermelon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 2.86LB Watermelon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 2.86LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 2.86LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 2.86LB Watermelon weight less than 3lbs!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 2.86LB Watermelon to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 6.03LB Watermelon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 6.03LB Watermelon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 6.03LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 6.03LB Watermelon [0m
+[93m[InspectorBot 2000][0m Status: [92mGreen 6.03LB Watermelon Passes [0m
+------
+Robots Picked 25 Watermelon for order of 10
+[93m[PackerBot][0m Status: Packing Green 4.58LB Watermelon [0m
+[93m[PackerBot][0m Status: Packing Green 5.70LB Watermelon [0m
+[93m[PackerBot][0m Status: Packing Green 4.82LB Watermelon [0m
+[93m[PackerBot][0m Status: Packing Green 3.50LB Watermelon [0m
+[93m[PackerBot][0m Status: Packing Green 6.86LB Watermelon [0m
+[93m[PackerBot][0m Status: Packing Green 3.83LB Watermelon [0m
+[93m[PackerBot][0m Status: Packing Green 3.62LB Watermelon [0m
+[93m[PackerBot][0m Status: Packing Green 6.09LB Watermelon [0m
+[93m[PackerBot][0m Status: Packing Green 5.66LB Watermelon [0m
+[93m[PackerBot][0m Status: Packing Green 6.03LB Watermelon [0m
+[93m[ShipperBot][0m Status: Shipping 2 boxes of melons. [0m
+[93m[ShipperBot][0m Status: Box 1 Weight: 25.46lbs [0m
+[93m[ShipperBot][0m Status: Box 2 Weight: 25.23lbs [0m
+------
+
+
+-----
+Fullfilling order of 8 Honeydew
+-----
+
+[93m[PickerBot][0m Status: Picked a Green 9.07LB Honeydew [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 9.07LB Honeydew [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 9.07LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 9.07LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 9.07LB Honeydew weight over 8lbs!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 9.07LB Honeydew to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 5.79LB Honeydew [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 5.79LB Honeydew [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 5.79LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 5.79LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: [92mGreen 5.79LB Honeydew Passes [0m
+[93m[PickerBot][0m Status: Picked a Green 8.45LB Honeydew [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 8.45LB Honeydew [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 8.45LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 8.45LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 8.45LB Honeydew weight over 8lbs!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 8.45LB Honeydew to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 5.29LB Honeydew [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 5.29LB Honeydew [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 5.29LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 5.29LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 5.29LB Honeydew is not labeled correctly!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 5.29LB Honeydew to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 7.20LB Honeydew [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 7.20LB Honeydew [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 7.20LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 7.20LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: [92mGreen 7.20LB Honeydew Passes [0m
+[93m[PickerBot][0m Status: Picked a Green 8.62LB Honeydew [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 8.62LB Honeydew [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 8.62LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 8.62LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 8.62LB Honeydew weight over 8lbs!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 8.62LB Honeydew to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 4.39LB Honeydew [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 4.39LB Honeydew [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 4.39LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 4.39LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: [92mGreen 4.39LB Honeydew Passes [0m
+[93m[PickerBot][0m Status: Picked a Green 8.01LB Honeydew [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 8.01LB Honeydew [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 8.01LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 8.01LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 8.01LB Honeydew weight over 8lbs!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 8.01LB Honeydew to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 2.25LB Honeydew [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 2.25LB Honeydew [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 2.25LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 2.25LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 2.25LB Honeydew weight less than 3lbs!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 2.25LB Honeydew to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 5.14LB Honeydew [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 5.14LB Honeydew [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 5.14LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 5.14LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: [92mGreen 5.14LB Honeydew Passes [0m
+[93m[PickerBot][0m Status: Picked a Green 9.68LB Honeydew [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 9.68LB Honeydew [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 9.68LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 9.68LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 9.68LB Honeydew weight over 8lbs!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 9.68LB Honeydew to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 5.14LB Honeydew [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 5.14LB Honeydew [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 5.14LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 5.14LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 5.14LB Honeydew is not labeled correctly!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 5.14LB Honeydew to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 4.66LB Honeydew [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 4.66LB Honeydew [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 4.66LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 4.66LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: [92mGreen 4.66LB Honeydew Passes [0m
+[93m[PickerBot][0m Status: Picked a Green 3.59LB Honeydew [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 3.59LB Honeydew [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 3.59LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 3.59LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: [92mGreen 3.59LB Honeydew Passes [0m
+[93m[PickerBot][0m Status: Picked a Green 3.60LB Honeydew [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 3.60LB Honeydew [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 3.60LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 3.60LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: [92mGreen 3.60LB Honeydew Passes [0m
+[93m[PickerBot][0m Status: Picked a Green 6.07LB Honeydew [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 6.07LB Honeydew [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 6.07LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 6.07LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 6.07LB Honeydew is not labeled correctly!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 6.07LB Honeydew to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 2.34LB Honeydew [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 2.34LB Honeydew [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 2.34LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 2.34LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 2.34LB Honeydew weight less than 3lbs!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 2.34LB Honeydew to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 0.35LB Honeydew [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 0.35LB Honeydew [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 0.35LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 0.35LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 0.35LB Honeydew weight less than 3lbs!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 0.35LB Honeydew to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 0.80LB Honeydew [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 0.80LB Honeydew [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 0.80LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 0.80LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 0.80LB Honeydew weight less than 3lbs!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 0.80LB Honeydew to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 7.54LB Honeydew [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 7.54LB Honeydew [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 7.54LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 7.54LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 7.54LB Honeydew is not labeled correctly!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 7.54LB Honeydew to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 7.10LB Honeydew [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 7.10LB Honeydew [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 7.10LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 7.10LB Honeydew [0m
+[93m[InspectorBot 2000][0m Status: [92mGreen 7.10LB Honeydew Passes [0m
+------
+Robots Picked 21 Honeydew for order of 8
+[93m[PackerBot][0m Status: Packing Green 5.79LB Honeydew [0m
+[93m[PackerBot][0m Status: Packing Green 7.20LB Honeydew [0m
+[93m[PackerBot][0m Status: Packing Green 4.39LB Honeydew [0m
+[93m[PackerBot][0m Status: Packing Green 5.14LB Honeydew [0m
+[93m[PackerBot][0m Status: Packing Green 4.66LB Honeydew [0m
+[93m[PackerBot][0m Status: Packing Green 3.59LB Honeydew [0m
+[93m[PackerBot][0m Status: Packing Green 3.60LB Honeydew [0m
+[93m[PackerBot][0m Status: Packing Green 7.10LB Honeydew [0m
+[93m[ShipperBot][0m Status: Shipping 2 boxes of melons. [0m
+[93m[ShipperBot][0m Status: Box 1 Weight: 27.19lbs [0m
+[93m[ShipperBot][0m Status: Box 2 Weight: 14.30lbs [0m
+------
+
+
+-----
+Fullfilling order of 3 Musk Melon
+-----
+
+[93m[PickerBot][0m Status: Picked a Green 8.36LB Musk Melon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 8.36LB Musk Melon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 8.36LB Musk Melon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 8.36LB Musk Melon [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 8.36LB Musk Melon weight over 8lbs!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 8.36LB Musk Melon to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 5.69LB Musk Melon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 5.69LB Musk Melon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 5.69LB Musk Melon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 5.69LB Musk Melon [0m
+[93m[InspectorBot 2000][0m Status: [92mGreen 5.69LB Musk Melon Passes [0m
+[93m[PickerBot][0m Status: Picked a Green 9.45LB Musk Melon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 9.45LB Musk Melon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 9.45LB Musk Melon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 9.45LB Musk Melon [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 9.45LB Musk Melon weight over 8lbs!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 9.45LB Musk Melon to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 2.46LB Musk Melon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 2.46LB Musk Melon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 2.46LB Musk Melon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 2.46LB Musk Melon [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 2.46LB Musk Melon weight less than 3lbs!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 2.46LB Musk Melon to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 9.92LB Musk Melon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 9.92LB Musk Melon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 9.92LB Musk Melon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 9.92LB Musk Melon [0m
+[93m[InspectorBot 2000][0m Status: [91mGreen 9.92LB Musk Melon weight over 8lbs!  REJECTED!! [0m
+[93m[TrashBot][0m Status: Sending Green 9.92LB Musk Melon to the compost [0m
+[93m[PickerBot][0m Status: Picked a Green 7.36LB Musk Melon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 7.36LB Musk Melon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 7.36LB Musk Melon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 7.36LB Musk Melon [0m
+[93m[InspectorBot 2000][0m Status: [92mGreen 7.36LB Musk Melon Passes [0m
+[93m[PickerBot][0m Status: Picked a Green 5.77LB Musk Melon [0m
+[93m[CleanerBot][0m Status: Cleaned a Green 5.77LB Musk Melon [0m
+[93m[StickerBot][0m Status: Applied logos to a Green 5.77LB Musk Melon [0m
+[93m[InspectorBot 2000][0m Status: Evaluating a Green 5.77LB Musk Melon [0m
+[93m[InspectorBot 2000][0m Status: [92mGreen 5.77LB Musk Melon Passes [0m
+------
+Robots Picked 7 Musk Melon for order of 3
+[93m[PackerBot][0m Status: Packing Green 5.69LB Musk Melon [0m
+[93m[PackerBot][0m Status: Packing Green 7.36LB Musk Melon [0m
+[93m[PackerBot][0m Status: Packing Green 5.77LB Musk Melon [0m
+[93m[ShipperBot][0m Status: Shipping 1 boxes of melons. [0m
+[93m[ShipperBot][0m Status: Box 1 Weight: 18.82lbs [0m
+------
+
